@@ -28,7 +28,7 @@ To get started with CoinKeeper, follow these steps:
 1. Clone the repository:
 
    shell
-   git clone https://github.com/AnkitBhalla19/CoinKeeper.git
+   git clone [https://github.com/AnkitBhalla19/CoinKeeper.git](https://github.com/Rithik21103054/CoinKeeper)
    
 
 2. Open the project in your favorite code editor.
